@@ -38,6 +38,8 @@ https://docs.github.com/en/get-started/quickstart/fork-a-repo
 
 *Make sure you sync the fork with the upstream repository*
 
+Then `clone` your fork from *your* Github page for the fork.
+
 ### Make some edits
 
 Edit the `names.py` file and fix yours (*and only yours!*) information.
