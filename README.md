@@ -38,7 +38,9 @@ https://docs.github.com/en/get-started/quickstart/fork-a-repo
 
 *Make sure you sync the fork with the upstream repository*
 
-Then `clone` your fork from *your* Github page for the fork.
+Delect the previous directory that you cloned, `SCDV-490-Github-intro-S23`.
+
+Then `clone` your fork from *your* Github page for the fork. 
 
 ### Make some edits
 
