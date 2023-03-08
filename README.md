@@ -14,6 +14,12 @@ git clone https://github.com/mattbellis/SCDV-490-Github-intro-S23.git
 
 ### Make some edits
 
+Go into the directory you just created (use the `cd` change-directory command, if you are doing this all on the command line. 
+
+```
+cd SCDV-490-Github-intro-S23
+```
+
 Fire up a jupyter-notebook environment in this new `SCDV-490-Github-intro-S23` directory. 
 
 Open up `test_demo_tools_A.ipynb` and go through the exercise. Make sure you read everything carefully.
